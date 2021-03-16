@@ -1,0 +1,31 @@
+Basics of Java
+
+Step 1
+whitespace -> space, tabs, carriage return (new line)
+comments
+keywords
+identifier
+datatype
+literals
+operators & expressions
+type casting
+
+Step 2
+conditional statement
+- simple if
+- if else
+- nested if else
+- else if
+- switch case
+
+Step 3
+looping
+for loop
+while loop
+do-while loop
+break continue
+
+Step 4
+arrays
+single dimensional
+multi dimensional
