@@ -1,4 +1,4 @@
-package assignments;
+package assignments.assignments1_12;
 
 // 3. Write a program to find sum and average of two numbers input by User (using Scanner class). - March 12, 2021
 

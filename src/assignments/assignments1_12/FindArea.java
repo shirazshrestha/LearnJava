@@ -1,4 +1,4 @@
-package assignments;
+package assignments.assignments1_12;
 
 // 5. Write a program to find the area of a circle, rectangle, and triangle. - March 12, 2021
 

@@ -1,4 +1,4 @@
-package assignments;
+package assignments.assignments1_12;
 
 // 8. Write a program to convert Fahrenheit to Celsius and Celsius to Fahrenheit. - March 12, 2021
 

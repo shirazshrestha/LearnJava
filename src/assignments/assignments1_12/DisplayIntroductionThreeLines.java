@@ -1,4 +1,4 @@
-package assignments;
+package assignments.assignments1_12;
 
 // 2. Write a program to display your Introduction in three lines. - March 12, 2021
 

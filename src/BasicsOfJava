@@ -23,7 +23,10 @@ looping
 for loop
 while loop
 do-while loop
-break continue
+break
+continue
+return
+nested loop
 
 Step 4
 arrays
