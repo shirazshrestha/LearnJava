@@ -1,4 +1,4 @@
-package assignments;
+package assignments.assignments1_12;
 
 // 4. Write a program to calculate Simple Interest input by the user. Simple Interest = P*T*R/100 - March 12, 2021
 

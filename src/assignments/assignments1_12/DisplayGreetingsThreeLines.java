@@ -1,4 +1,4 @@
-package assignments;
+package assignments.assignments1_12;
 
 // 1. Write a program to display Greetings in three lines. - March 12, 2021
 
