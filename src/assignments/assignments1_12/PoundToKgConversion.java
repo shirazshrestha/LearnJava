@@ -1,4 +1,4 @@
-package assignments;
+package assignments.assignments1_12;
 
 // 9. Write a program that converts pounds into kg.
 // The program prompts the user to enter a number of pounds, converts it to kg and displays the result [1 pound is 0.454 kg]. - March 12, 2021

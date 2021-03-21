@@ -1,4 +1,4 @@
-package assignments;
+package assignments.assignments1_12;
 
 // 12. Write a program to accept the roll, name, and nationality of the person and display those values in good format. - March 12, 2021
 

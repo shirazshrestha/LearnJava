@@ -1,4 +1,4 @@
-package assignments;
+package assignments.assignments1_12;
 
 // 10. Write a Program for the following Mathematical Function.
 // a.) s = ut + 1/2 at^2

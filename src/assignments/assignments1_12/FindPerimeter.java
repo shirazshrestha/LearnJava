@@ -1,4 +1,4 @@
-package assignments;
+package assignments.assignments1_12;
 
 // 6. Write a program to find the perimeter of a circle, triangle, and rectangle. - March 12, 2021
 
