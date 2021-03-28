@@ -1,4 +1,4 @@
-package assignments.assignments22_31;
+package assignments.assignments22_37;
 
 //28. Write a program in a single class having the following functions.
 //isPrimenumber(int)

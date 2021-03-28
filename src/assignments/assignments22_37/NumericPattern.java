@@ -1,4 +1,4 @@
-package assignments.assignments22_31;
+package assignments.assignments22_37;
 
 /*
 31. Write a Program display following patterns.

@@ -1,4 +1,4 @@
-package assignments.assignments22_31;
+package assignments.assignments22_37;
 
 //26. Write a Program to reverse the given number. 123 => 321
 
