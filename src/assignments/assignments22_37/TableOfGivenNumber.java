@@ -1,4 +1,4 @@
-package assignments.assignments22_31;
+package assignments.assignments22_37;
 
 //22. Write a program to print the table of given numbers.
 

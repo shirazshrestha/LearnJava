@@ -1,4 +1,4 @@
-package assignments.assignments22_31;
+package assignments.assignments22_37;
 
 //30. Write a program to print the Fibonacci series. 1 1 2 3 5 8 ….
 

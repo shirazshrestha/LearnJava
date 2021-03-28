@@ -1,4 +1,4 @@
-package assignments.assignments22_31;
+package assignments.assignments22_37;
 
 //24. Write a program to print the factorial number of given numbers.
 

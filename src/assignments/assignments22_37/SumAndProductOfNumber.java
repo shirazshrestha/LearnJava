@@ -1,4 +1,4 @@
-package assignments.assignments22_31;
+package assignments.assignments22_37;
 
 //27. Write a Program to sum each digit of given number as well as product.
 // 456 =>4*5*6 and 4+5+6
